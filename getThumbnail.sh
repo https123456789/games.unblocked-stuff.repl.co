@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/titaniumnetwork-dev/Incognito-old/main/static/src/gs/thumbnails/$1.jpg -o thumbnails/$1.jpg
